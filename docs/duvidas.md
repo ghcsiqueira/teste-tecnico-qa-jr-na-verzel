@@ -36,7 +36,7 @@ A história não especifica explicitamente a mensagem esperada para esse cenári
 
 ### 3.1. CEP com quantidade de caracteres inválida
 
-**Cenário:** CT-025 — Informar CEP com quantidade de caracteres inválida.
+**Cenário:** CT-025 - Informar CEP com quantidade de caracteres inválida.
 
 A documentação não especifica qual mensagem deve ser apresentada quando o usuário informa um CEP com mais de oito caracteres. 
 
