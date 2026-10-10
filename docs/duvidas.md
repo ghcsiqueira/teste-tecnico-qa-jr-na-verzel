@@ -1,4 +1,4 @@
-# Pontos de Atenção — Dúvidas e Alinhamentos com o PO
+# Pontos de Atenção - Dúvidas e Alinhamentos com o PO
 
 ## 1. Validação de cupons
 
