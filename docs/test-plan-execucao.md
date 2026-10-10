@@ -25,7 +25,6 @@ Foram priorizados:
 - Regras de negócio
 - Valor limite
 - Dados inválidos
-- Cenários negativos
 
 
 ## 4.1 Cupons
