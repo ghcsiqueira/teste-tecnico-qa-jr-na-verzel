@@ -1,4 +1,4 @@
-# Desafio Técnico QA Júnior — Verzel Store
+# Desafio Técnico QA Júnior - Verzel Store
 
 ## 1. Introdução
 
